@@ -1,6 +1,34 @@
 body {
     font-family: sans-serif
-    background-color  #00A86B
+    background-color  #5c947f
     border 3 navy
+    margin 0
+    padding 10
+
+}
+
+container {
+    max-width: 100;
+    margin: 0 auto;
+
+    background-color: #87CEEB;
+    padding: 25;
+    border: 1 solid black
+    border-radius 6;
+
+    align-items: center;
+    box-shadow:0 5 10 darkgray;
+    
+
+}
+
+container h1{
+    font-family: 'Times New Roman', Times, serif
+    font-weight bold;
+
+}
+
+container ul{
+    font-family: sans-serif
     
 }
