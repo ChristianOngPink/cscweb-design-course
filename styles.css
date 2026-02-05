@@ -29,6 +29,11 @@ body {
 }
 
 .container ul{
-    font-family: sans-serif
-    
+    font-family: sans-serif;
+    align-items: center;
+}
+
+.container img {
+    max-width: 700px;
+    height: auto;
 }
