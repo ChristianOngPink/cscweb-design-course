@@ -1,6 +1,6 @@
 body {
-    font-family: sans-serif
-    background-color  #5c947f
+    font-family: sans-serif;
+    background-color:  #5c947f;
     /*border 3 navy
     margin 0
     padding 10*/
@@ -8,23 +8,23 @@ body {
 }
 
 .container {
-    max-width: 100;
+    max-width: 100px;
     margin: 0 auto;
 
     background-color: #87CEEB;
-    padding: 25;
-    border: 1 solid black
-    border-radius 6;
+    padding: 25px;
+    border: 1 solid black;
+    border-radius: 6;
 
     align-items: center;
-    box-shadow:0 5 10 darkgray;
+    box-shadow:0px 5px 10px darkgray;
     
 
 }
 
 .container h1{
     font-family: 'Times New Roman', Times, serif
-    font-weight bold;
+    font-weight "bold";
 
 }
 
