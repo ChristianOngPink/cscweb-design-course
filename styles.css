@@ -25,15 +25,18 @@ body {
 .container h1{
     font-family: 'Times New Roman', Times, serif
     font-weight "bold";
+    background-color: white;
 
 }
 
 .container ul{
     font-family: sans-serif;
     align-items: center;
+    background-color: white;
 }
 
 .container img {
     max-width: 700px;
     height: auto;
+    background-color: white;
 }
