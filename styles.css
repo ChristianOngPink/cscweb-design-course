@@ -30,12 +30,10 @@ body {
 .container ul{
     font-family: sans-serif;
     align-items: center;
-    background-color: white;
 }
 
 .container img {
     align-items:center;
     max-width: 600px;
     height: auto;
-    background-color: white;
 }
